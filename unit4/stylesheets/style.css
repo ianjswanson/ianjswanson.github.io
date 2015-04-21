@@ -19,7 +19,10 @@ h1 {
 	font-weight: 800;
 	font-size: 65px;
 }
-
+span {
+	font-weight: bold;
+	font-size: 12px;
+}
 #slogan {
 	font-family: 'Kreon', serif;
 	font-weight: 300;
