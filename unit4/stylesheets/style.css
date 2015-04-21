@@ -7,14 +7,16 @@ text-align: center;
 background: #F5F0EB;
 position: center;
 padding-top: 0px;
+margin: 0px auto;
 }
 h1 {
 	font-family: 'Amatic SC', cursive;
 	background-image: url("../images/WanderingScene.gif");
+	border: none;
 	width: 100%;
 	height: 320px;
 	margin: 0px auto;
-	padding-top: 40px;
+	padding-top: 45px;
 	letter-spacing: auto;
 	font-weight: 800;
 	font-size: 65px;
@@ -24,6 +26,7 @@ span {
 	font-size: 12px;
 }
 #slogan {
+	border: none;
 	font-family: 'Kreon', serif;
 	font-weight: 300;
 	color: #000;
@@ -36,6 +39,7 @@ span {
 	text-align: 10px;
 }
 #infobelow {
+	border: none;
 	font-family: 'Amatic SC', cursive;
 	padding: 80px;
 	margin: 0 auto;
@@ -44,13 +48,14 @@ span {
 	max-width: 600px;
 }
 li {
+	border: none;
 	font-family: 'Amatic SC', cursive;
 	font-size: 18px;
 	font-weight: 400;
 	text-transform: uppercase;
 	display: inline;
     padding: 40px 20px 40px 20px;
-    margin-top: 0px;
+    margin: 0px auto;
     margin-bottom: 0px auto;
     color: #000;
 }
@@ -66,11 +71,14 @@ ul {
 	color: #503E2B;
 	background-color: rgba(0,0,0,.05);
 	padding: 40px;
-	margin-top: 0px;
-	line-height: 30px;
-	font-size: 18px;
+	margin: 0px auto;
+	line-height: 15px;
+	font-size: 16px;
 	letter-spacing: auto;
 	text-align: 10px;
+	border: none;
+	border: 0px auto;
+	letter-spacing: .25em;
 	}
 a {
 	color: #000;
