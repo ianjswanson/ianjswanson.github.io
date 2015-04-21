@@ -1,0 +1,90 @@
+@import url(http://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+@import url(http://fonts.googleapis.com/css?family=Kreon:300,400,700);
+
+body {
+font-family: 'Times';
+text-align: center;
+background: #F5F0EB;
+position: center;
+padding-top: 0px;
+}
+h1 {
+	font-family: 'Amatic SC', cursive;
+	background-image: url("../images/WanderingScene.gif");
+	width: 100%;
+	height: 320px;
+	margin: 0px auto;
+	padding-top: 40px;
+	letter-spacing: auto;
+	font-weight: 800;
+	font-size: 65px;
+}
+
+#slogan {
+	font-family: 'Kreon', serif;
+	font-weight: 300;
+	color: #000;
+	background-color: rgba(0,0,0,.05);
+	padding: 40px;
+	margin-top: 0px;
+	line-height: 30px;
+	font-size: 18px;
+	letter-spacing: auto;
+	text-align: 10px;
+}
+#infobelow {
+	font-family: 'Amatic SC', cursive;
+	padding: 80px;
+	margin: 0 auto;
+	line-height: 2em;
+	font-size: 21px;
+	max-width: 600px;
+}
+li {
+	font-family: 'Amatic SC', cursive;
+	font-size: 18px;
+	font-weight: 400;
+	text-transform: uppercase;
+	display: inline;
+    padding: 40px 20px 40px 20px;
+    margin-top: 0px;
+    margin-bottom: 0px auto;
+    color: #000;
+}
+div {
+  background-image: center;
+}
+#bottominfo {
+	background-color: rgba(0,0,0,.05);
+	    padding: 40px 20px 40px 20px;
+
+}
+ul {
+	color: #503E2B;
+	background-color: rgba(0,0,0,.05);
+	padding: 40px;
+	margin-top: 0px;
+	line-height: 30px;
+	font-size: 18px;
+	letter-spacing: auto;
+	text-align: 10px;
+	}
+a {
+	color: #000;
+	text-decoration: none;
+}
+a:hover {
+	color: #0033CC;
+}
+
+}
+img {
+	padding-top: 0px;
+}
+#contact {
+	font-family: 'Amatic SC', cursive;
+	color: ##3D3D29;
+	font-size: 75px;
+	font-weight: 700;
+	padding: 30px;
+}
