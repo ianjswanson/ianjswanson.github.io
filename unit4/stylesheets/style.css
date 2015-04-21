@@ -1,8 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(http://fonts.googleapis.com/css?family=Kreon:300,400,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700,100);
+
 
 body {
-font-family: 'Times';
+font-family: 'Roboto Slab', serif;
 text-align: center;
 background: #F5F0EB;
 position: center;
@@ -27,7 +29,7 @@ span {
 }
 #slogan {
 	border: none;
-	font-family: 'Kreon', serif;
+	font-family: 'Roboto Slab', serif;
 	font-weight: 300;
 	color: #000;
 	background-color: rgba(0,0,0,.05);
@@ -40,7 +42,6 @@ span {
 }
 #infobelow {
 	border: none;
-	font-family: 'Amatic SC', cursive;
 	padding: 80px;
 	margin: 0 auto;
 	line-height: 2em;
@@ -49,7 +50,6 @@ span {
 }
 li {
 	border: none;
-	font-family: 'Amatic SC', cursive;
 	font-size: 18px;
 	font-weight: 400;
 	text-transform: uppercase;
