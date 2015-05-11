@@ -4,8 +4,6 @@ body {
 	line-height: 1.5;
 	font-size: 18px;
 	display: center;
-	margin-left: auto;
-    margin-right: auto;
 }
 
 header { 
@@ -77,8 +75,9 @@ nav a:hover {
 #imagenav {
 	margin-left: auto;
     margin-right: auto;
-    padding: none;
-    margin-left: 20px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	margin-left: 20px;
     margin-right: 20px;
     display: center;
     text-align: center;
