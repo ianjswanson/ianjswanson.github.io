@@ -1,0 +1,168 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	line-height: 1.5;
+	font-size: 14px;
+}
+header {
+	font-weight: lighter;
+	color: #FFFFFA;
+	background-color: #191919;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	clear: both;
+}
+
+h1 {
+	font-size: 3em;
+	padding: 2%;
+}
+h2 {
+	font-size: 1em;
+	font-weight: 600;
+}
+
+p {
+	padding: 1% 7%;
+}
+#sitenav {
+	display: center;
+	background-color: #191919;
+	text-align: center;
+	font-size: 1.25em;
+	}
+
+nav a {
+	text-decoration: none;
+	font-size: 2em;
+	padding: 1% 5% 0 5%;
+	display: inline-block;
+	color: #FFFFFA;
+	}
+
+nav a:hover {
+	color: #FF99FF; 
+	background-color: #191919;
+	}
+
+#container {
+	width: 100%;
+	margin: auto;	
+}
+
+#main {
+	background: #FFF;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0 2% 2% 2%;
+}
+
+img {
+	display: 100%;
+	margin: 0 auto;
+	}
+div a {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 1% 5%;
+	margin: 0 auto;
+	display: inline-block;
+	color: #FFFFFA;
+	background-color: #191919; 
+}
+button {
+	font-family: "Raleway", sans-serif;
+	text-decoration: none;
+	border: none;
+	font-weight: lighter;
+	font-size: 1em;
+	padding: 1.25% 5%;
+	margin: none;
+	color: #FFFFFA;
+	background-color: #191919; 
+}
+button:hover {
+	color: #FF99FF; 
+	background-color: #191919;
+}
+div a:hover {
+	color: #FF99FF; 
+	background-color: #191919;
+	}
+.post {
+	margin-bottom: 50px;
+}
+
+.post img {
+	width: 100%;
+}
+.post-meta {
+	border-top: 1px dotted #191919;
+	border-bottom: 2px solid #191919;
+	display: block;
+	padding: 1% 5% 1% 0;
+	font-size: .8em;
+	font-weight: bolder;
+}
+footer {
+	font-family: 'Raleway', sans-serif; 
+	padding: 10%;
+	text-align: center;
+	color: #FFFFFA;
+	background-color: #191919;
+	text-align: center;
+	margin: 1% 0;
+}
+#contact {
+	font-weight: lighter;
+	font-size: 1.5em;
+}
+
+@media only screen and (max-width: 800px) {
+#main {
+		width: 95%;
+	}
+.post-meta {
+	font-size: .7em;
+	}
+	#contact {
+	font-weight: normal;
+	font-size: 2em;
+	display: inline-block;
+	padding: 4em;
+	line-height: 4em;
+}
+footer {
+	font-size: .8em;
+	padding: none;
+}
+}
+@media only screen and (max-width: 480px) {
+button {
+	padding: 4% 7%;
+	}
+.post-meta {
+	padding: 3%;
+	}
+p {
+padding: 2% 3% 3% 3%;
+	}
+h2 {
+	padding: 1.5% 3% 0 3%;
+	}
+#contact {
+	font-weight: normal;
+	font-size: 2em;
+	display: inline-block;
+	padding: 4em;
+	line-height: 4em;
+}
+footer {
+	font-size: .8em;
+	padding: none;
+}
+#sitenav {
+	font-size: 1em;
+	}
+
+}
