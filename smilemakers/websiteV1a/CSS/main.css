@@ -1,0 +1,17 @@
+body {
+	display: block;
+	width: 100%;
+	margin: 0 auto;
+}
+
+img {
+	display: inline-block;
+	max-width: 100%;
+	margin: 0 auto;
+}
+#container {
+	background-image: <img src="Desktop HD.jpg">;
+	margin: auto;
+	padding: 0 auto;
+	display: block;	
+}
