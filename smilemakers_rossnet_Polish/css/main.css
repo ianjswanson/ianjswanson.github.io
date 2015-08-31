@@ -1,0 +1,227 @@
+#container {
+font-family: 'Roboto', sans-serif;
+	line-height: 1.5;
+	font-weight: 100;
+	font-size: 14px;
+	letter-spacing: .1em;
+	color: #333333;
+	text-align: center;
+}
+header {
+	font-weight: lighter;
+	color: #333333;
+	background-color: white;
+	text-align: center;
+	padding-top: 0;
+	padding-bottom: 1em;
+	clear: both;
+	margin: 0;
+}
+
+#namefire {
+	color: #FA969B;
+}
+#nameblue {
+	color: #C3E1F3;
+}
+#nametennis {
+	color: #FEE99C;
+}
+#namemillionaire {
+	color: #D0B0D3;
+}
+
+
+h1 {
+	font-size: 3em;
+	padding: 2%;
+}
+h2 {
+	font-size: 1em;
+	font-weight: 100;
+}
+h4 {
+	font-size: 1em;
+	font-weight: 100;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	background-color: #fafafa;
+}
+.logo img{
+	width: 40%;
+	padding: 1em;
+	margin: 0;
+}
+
+#logo img{
+	width: 25%;
+	padding: 1.5em;
+}
+
+p {
+	font-size: 1.5em;
+	padding: 1% 7%;
+}
+#sitenav {
+	display: center;
+	background-color: white;
+	text-align: center;
+	font-size: 1em;
+	}
+
+#main {
+	background: #FFF;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0 2% 2% 2%;
+}
+#tagline {
+	font-weight: 100;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 1.2em;
+}
+
+img {
+	display: 100%;
+	margin: 0 auto;
+	}
+div a {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 2% 4%;
+	margin: 0 auto;
+	display: inline-block;
+	color: #333;
+	background-color: white; 
+}
+div a:hover {
+	color: #333; 
+	background-color: #fafafa;
+	}
+.post {
+	margin-bottom: 50px;
+	padding: 0;
+}
+
+.post img {
+	width: 100%;
+}
+.post-meta {
+	border-top: 1px dotted #191919;
+	border-bottom: 2px solid #191919;
+	display: block;
+	padding: 1% 5% 1% 0;
+	font-size: .8em;
+}
+#about {
+	background-image: url("../img/Smile-Makers-Vibrators-Group-Shot_V1A_H.jpg");
+/*	background-size: 100%;
+
+*/	
+	background-position: center;
+	background-size: cover;
+	padding: 20% 20% 20%;
+	background-repeat: no-repeat;
+	text-align: center;
+	font-size: 3em;
+	color: white;
+	font-weight: 100;
+}
+.info {
+	padding: 3em;
+}
+#legal {
+	padding: 5%;
+	text-align: center;
+	color: #ddd;
+	font-size: 1em;
+	font-weight: 400;
+	background-color: #fafafa;
+	margin: 0;
+}
+@media only screen and (max-width: 800px) {
+#container {
+	font-size: 12px;
+}
+h2 {
+	font-size: 3em;
+}
+#main {
+		width: 95%;
+	}
+.post-meta {
+	font-size: .7em;
+	}
+	#contact {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 5% 2%;
+	display: inline-block;
+	color: #333333;
+}
+#about {
+	font-size: 1em;
+}
+#logo img{
+	width: 35%;
+	padding: 1.5em;
+}
+nav a {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 5% 2%;
+	display: inline-block;
+	color: #333333;
+	}
+footer {
+	font-size: .8em;
+	padding: none;
+}
+}
+@media only screen and (max-width: 480px) {
+#container {
+	font-size: 10px;
+}
+button {
+	padding: 4% 7%;
+	}
+.post-meta {
+	padding: 3%;
+	}
+#logo img{
+	width: 45%;
+	padding: 1.5em;
+}
+h2 {
+	font-size: 3em;
+}
+p {
+padding: 2% 3% 3% 3%;
+	}
+h2 {
+	padding: 1.5% 3% 0 3%;
+	}
+#contact {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 5%;
+	display: block;
+	color: #333333;
+}
+footer {
+	font-size: .8em;
+	padding: none;
+}
+nav a {
+	text-decoration: none;
+	font-size: 1em;
+	padding: 5%;
+	display: block;
+	color: #333333;
+	}
+#sitenav {
+	font-size: 1em;
+	}
+
+}
