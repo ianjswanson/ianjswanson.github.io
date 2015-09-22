@@ -2,7 +2,7 @@
 	font-family:'Open Sans', sans-serif;
 	line-height: 1.5;
 	font-weight: 100;
-	font-size: 14px;
+	font-size: 12px;
 	letter-spacing: .1em;
 	color: #333333;
 	text-align: center;
@@ -28,22 +28,22 @@ h4 {
 	background-color: rgb(244,245,248);
 }
 #more {
-	padding: 1em;
+	padding-top: 2em;
 }
 .logo img{
-	width: 40%;
+	width: 50%;
 	padding: 1em;
 	margin: 0;
 }
 
 #logo img{
-	width: 25%;
+	width: 35%;
 	padding: 1.5em 1.5em .5em 1.5em;
 }
 .icon img{
-	width: 20%;
-	padding: 2em;
-	margin: 0;
+	width: 30%;
+	padding: 3em;
+	margin: 1em;
 }
 
 p {
@@ -55,7 +55,7 @@ p {
 	display: center;
 	background-color: rgb(244,245,248);
 	text-align: center;
-	font-size: 1em;
+	font-size: 1.25em;
 	}
 #nav {
 	background-color: rgb(244,245,248);
@@ -74,9 +74,10 @@ p {
 }
 #toptagline {
 	font-weight: 100;
-	font-size: 2em;
+	font-size: 2.7em;
 	text-align: center;
-	padding: 7em;
+	padding: 5em;
+	padding-top: 7em;
 	color: rgb(1,5,151);
 }
 img {
