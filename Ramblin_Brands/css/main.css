@@ -294,3 +294,10 @@ nav a {
 	font-size: 1em;
 	margin: 0;
 }	
+#exec {
+	padding: 4em 0;
+	color: rgb(81,195,202);
+	background-color: rgb(1,5,151);
+	font-size: 1.5em;
+	margin-bottom: 3em;
+}
