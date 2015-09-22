@@ -215,7 +215,12 @@ button {
 	text-align: center;
 	padding: 4em;
 	}	
-
+#main {
+	background: #FFF;
+	width: 98%;
+	margin: 0 auto;
+	padding: 0 2% 2% 2%;
+}
 h2 {
 	font-size: 3em;
 	padding: 1.5% 3% 0 3%;
