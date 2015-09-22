@@ -7,19 +7,6 @@
 	color: #333333;
 	text-align: center;
 }
-#namefire {
-	color: #FA969B;
-}
-#nameblue {
-	color: #C3E1F3;
-}
-#nametennis {
-	color: #FEE99C;
-}
-#namemillionaire {
-	color: #D0B0D3;
-}
-
 
 h1 {
 	font-size: 3em;
@@ -134,23 +121,19 @@ nav a:hover {
 	padding: 1% 5% 1% 0;
 	font-size: .8em;
 }
-#about {
-	background-color: rgb(81,195,202);
-/*	background-size: 100%;
 
-*/	
-	background-position: center;
-	background-size: cover;
-	padding: 5%;
-	background-repeat: no-repeat;
-	text-align: center;
-	color: white;
-	font-weight: 100;
-}
 .info {
-	padding: 3em;
+	padding: 8em;
 	background-color: rgb(81,195,202);
+	font-size: 1em;
+	margin: 0;
 }
+.history {
+	padding: 8em;
+	background-color: white;
+	font-size: 1em;
+	margin: 0;
+}	
 #legal {
 	padding: 5%;
 	text-align: center;
