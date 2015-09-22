@@ -26,7 +26,7 @@ h1 {
 	padding: 2%;
 }
 h2 {
-	font-size: 1em;
+	font-size: 3em;
 	font-weight: 100;
 }
 h4 {
@@ -37,7 +37,7 @@ h4 {
 	background-color: rgb(244,245,248);
 }
 #more {
-	padding: 2em;
+	padding: 1em;
 }
 .logo img{
 	width: 40%;
@@ -48,6 +48,11 @@ h4 {
 #logo img{
 	width: 25%;
 	padding: 1.5em 1.5em .5em 1.5em;
+}
+.icon img{
+	width: 20%;
+	padding: 2em;
+	margin: 0;
 }
 
 p {
@@ -81,6 +86,7 @@ p {
 	font-size: 2em;
 	text-align: center;
 	padding: 7em;
+	color: #333;
 }
 img {
 	display: 100%;
@@ -129,29 +135,29 @@ nav a:hover {
 	font-size: .8em;
 }
 #about {
-	background-image: url("../img/Smile-Makers-Vibrators-Group-Shot_V1A_H.jpg");
+	background-color: rgb(81,195,202);
 /*	background-size: 100%;
 
 */	
 	background-position: center;
 	background-size: cover;
-	padding: 20% 20% 20%;
+	padding: 5%;
 	background-repeat: no-repeat;
 	text-align: center;
-	font-size: 3em;
 	color: white;
 	font-weight: 100;
 }
 .info {
 	padding: 3em;
+	background-color: rgb(81,195,202);
 }
 #legal {
 	padding: 5%;
 	text-align: center;
-	color: #ddd;
+	color: rgb(1,5,151);
 	font-size: 1em;
 	font-weight: 400;
-	background-color: rgb(1,5,151);
+	background-color: rgb(223,225,236);
 	margin: 0;
 }
 @media only screen and (max-width: 800px) {
