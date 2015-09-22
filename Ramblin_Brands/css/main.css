@@ -232,6 +232,10 @@ h2 {
 	display: block;
 	color: #333333;
 }
+p {
+	font-size: .7em;
+	padding: 1% 7%;
+}
 footer {
 	font-size: .8em;
 	padding: none;
