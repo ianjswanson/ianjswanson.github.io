@@ -154,6 +154,10 @@ nav a:hover {
 h2 {
 	font-size: 3em;
 }
+#logo img{
+	width: 40%;
+	padding: 2em;
+}
 #main {
 		width: 95%;
 	}
@@ -191,7 +195,18 @@ footer {
 	font-size: .8em;
 	padding: none;
 }
+.info {
+	padding: 4em;
+	background-color: rgb(81,195,202);
+	font-size: 1em;
+	margin: 0;
 }
+.history {
+	padding: 4em;
+	background-color: white;
+	font-size: 1em;
+	margin: 0;
+}	
 @media only screen and (max-width: 500px) {
 #container {
 	font-size: 12px;
@@ -206,8 +221,13 @@ button {
 	font-size: .7em;
 }
 #logo img{
-	width: 80%;
+	width: 90%;
+	padding: 3em;
+}
+.logo img{
+	width: 60%;
 	padding: 1.5em;
+	margin: 0;
 }
 #toptagline {
 	font-weight: 100;
@@ -250,5 +270,15 @@ nav a {
 #sitenav {
 	font-size: 1em;
 	}
-
+.info {
+	padding: 2em;
+	background-color: rgb(81,195,202);
+	font-size: 1em;
+	margin: 0;
 }
+.history {
+	padding: 2em;
+	background-color: white;
+	font-size: 1em;
+	margin: 0;
+}	
