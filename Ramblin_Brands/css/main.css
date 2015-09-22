@@ -272,6 +272,7 @@ nav a {
 	}
 .info {
 	padding: 2em;
+	padding-bottom: 4em;
 	background-color: rgb(81,195,202);
 	font-size: 1em;
 	margin: 0;
