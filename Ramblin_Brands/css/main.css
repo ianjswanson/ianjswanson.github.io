@@ -16,6 +16,10 @@ h2 {
 	font-size: 3em;
 	font-weight: 100;
 }
+h3 {
+	font-size: 1em;
+	font-weight: 400;
+}
 h4 {
 	font-size: 1em;
 	font-weight: 100;
@@ -73,7 +77,7 @@ p {
 	font-size: 2em;
 	text-align: center;
 	padding: 7em;
-	color: #333;
+	color: rgb(1,5,151);
 }
 img {
 	display: 100%;
