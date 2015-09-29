@@ -2,7 +2,7 @@
 	font-family:'Open Sans', sans-serif;
 	line-height: 1.5;
 	font-weight: 100;
-	font-size: 12px;
+	font-size: 14px;
 	letter-spacing: .1em;
 	color: #333333;
 	text-align: center;
@@ -62,9 +62,7 @@ p {
 }
 #main {
 	background: #FFF;
-	width: 80%;
 	margin: 0 auto;
-	padding: 0 2% 2% 2%;
 }
 #tagline {
 	font-weight: 100;
